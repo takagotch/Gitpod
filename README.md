@@ -13,6 +13,9 @@ https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeokla
 
 
 ```
+Open Port
+3000 - (open) public
+Open Browser
 ```
 
 ```
