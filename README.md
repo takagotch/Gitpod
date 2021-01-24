@@ -1,4 +1,4 @@
-### Gitpod
+### Gitpod | gitpod.io/# + github.repo
 ---
 https://www.gitpod.io/docs/
 
